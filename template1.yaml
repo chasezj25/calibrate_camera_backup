@@ -1,0 +1,8 @@
+cam0:
+  cam_overlaps: []
+  camera_model: pinhole
+  distortion_coeffs: [TAG_D1_END, TAG_D2_END, TAG_D3_END, TAG_D4_END]
+  distortion_model: radtan
+  intrinsics: [TAG_K1_END, TAG_K2_END, TAG_K3_END, TAG_K4_END]
+  resolution: [TAG_WIDTH_END, TAG_HEIGHT_END]
+  rostopic: /cam0/image_raw

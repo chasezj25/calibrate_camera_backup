@@ -1,0 +1,88 @@
+Waiting for service /usb_cam/set_camera_info ...
+OK
+*** Added sample 1, p_x = 0.924, p_y = 0.154, p_size = 0.166, skew = 0.918
+*** Added sample 2, p_x = 0.892, p_y = 0.168, p_size = 0.184, skew = 0.754
+*** Added sample 3, p_x = 0.883, p_y = 0.222, p_size = 0.188, skew = 0.583
+*** Added sample 4, p_x = 0.857, p_y = 0.270, p_size = 0.190, skew = 0.408
+*** Added sample 5, p_x = 0.811, p_y = 0.309, p_size = 0.190, skew = 0.253
+*** Added sample 6, p_x = 0.772, p_y = 0.344, p_size = 0.185, skew = 0.121
+*** Added sample 7, p_x = 0.695, p_y = 0.390, p_size = 0.172, skew = 0.048
+*** Added sample 8, p_x = 0.569, p_y = 0.450, p_size = 0.159, skew = 0.053
+*** Added sample 9, p_x = 0.428, p_y = 0.379, p_size = 0.156, skew = 0.075
+*** Added sample 10, p_x = 0.362, p_y = 0.374, p_size = 0.139, skew = 0.191
+*** Added sample 11, p_x = 0.316, p_y = 0.362, p_size = 0.119, skew = 0.315
+*** Added sample 12, p_x = 0.270, p_y = 0.314, p_size = 0.109, skew = 0.212
+*** Added sample 13, p_x = 0.261, p_y = 0.243, p_size = 0.131, skew = 0.105
+*** Added sample 14, p_x = 0.328, p_y = 0.168, p_size = 0.151, skew = 0.148
+*** Added sample 15, p_x = 0.498, p_y = 0.162, p_size = 0.168, skew = 0.001
+*** Added sample 16, p_x = 0.558, p_y = 0.171, p_size = 0.171, skew = 0.142
+*** Added sample 17, p_x = 0.674, p_y = 0.196, p_size = 0.170, skew = 0.264
+*** Added sample 18, p_x = 0.746, p_y = 0.225, p_size = 0.164, skew = 0.362
+*** Added sample 19, p_x = 0.900, p_y = 0.350, p_size = 0.133, skew = 0.459
+*** Added sample 20, p_x = 0.947, p_y = 0.387, p_size = 0.112, skew = 0.561
+*** Added sample 21, p_x = 0.897, p_y = 0.347, p_size = 0.136, skew = 0.227
+*** Added sample 22, p_x = 0.890, p_y = 0.378, p_size = 0.143, skew = 0.067
+*** Added sample 23, p_x = 0.969, p_y = 0.400, p_size = 0.124, skew = 0.298
+*** Added sample 24, p_x = 0.731, p_y = 0.481, p_size = 0.163, skew = 0.142
+*** Added sample 25, p_x = 0.637, p_y = 0.065, p_size = 0.167, skew = 0.177
+*** Added sample 26, p_x = 0.554, p_y = 0.318, p_size = 0.195, skew = 0.083
+*** Added sample 27, p_x = 0.546, p_y = 0.550, p_size = 0.206, skew = 0.015
+*** Added sample 28, p_x = 0.483, p_y = 0.675, p_size = 0.191, skew = 0.019
+*** Added sample 29, p_x = 0.435, p_y = 0.763, p_size = 0.177, skew = 0.080
+*** Added sample 30, p_x = 0.472, p_y = 0.919, p_size = 0.185, skew = 0.085
+*** Added sample 31, p_x = 0.597, p_y = 0.976, p_size = 0.189, skew = 0.140
+*** Added sample 32, p_x = 0.610, p_y = 0.789, p_size = 0.204, skew = 0.063
+*** Added sample 33, p_x = 0.624, p_y = 0.588, p_size = 0.223, skew = 0.143
+*** Added sample 34, p_x = 0.634, p_y = 0.503, p_size = 0.177, skew = 0.211
+*** Added sample 35, p_x = 0.630, p_y = 0.526, p_size = 0.164, skew = 0.385
+*** Added sample 36, p_x = 0.614, p_y = 0.548, p_size = 0.150, skew = 0.533
+*** Added sample 37, p_x = 0.607, p_y = 0.553, p_size = 0.128, skew = 0.706
+*** Added sample 38, p_x = 0.601, p_y = 0.539, p_size = 0.113, skew = 0.879
+*** Added sample 39, p_x = 0.605, p_y = 0.527, p_size = 0.301, skew = 0.046
+*** Added sample 40, p_x = 0.519, p_y = 0.549, p_size = 0.375, skew = 0.011
+*** Added sample 41, p_x = 0.587, p_y = 0.604, p_size = 0.442, skew = 0.021
+*** Added sample 42, p_x = 0.639, p_y = 0.672, p_size = 0.506, skew = 0.047
+*** Added sample 43, p_x = 0.669, p_y = 0.557, p_size = 0.464, skew = 0.103
+*** Added sample 44, p_x = 0.709, p_y = 0.479, p_size = 0.416, skew = 0.159
+*** Added sample 45, p_x = 0.766, p_y = 0.411, p_size = 0.357, skew = 0.216
+*** Added sample 46, p_x = 0.786, p_y = 0.325, p_size = 0.322, skew = 0.305
+*** Added sample 47, p_x = 0.794, p_y = 0.234, p_size = 0.300, skew = 0.425
+*** Added sample 48, p_x = 0.805, p_y = 0.113, p_size = 0.265, skew = 0.582
+**** Calibrating ****
+mono pinhole calibration...
+D = [-0.29448681409653493, 0.06829771185126039, -0.0009606764034256757, 0.00038450957178855753, 0.0]
+K = [404.57698327609796, 0.0, 378.4982976103964, 0.0, 461.1099645863125, 211.88029776182555, 0.0, 0.0, 1.0]
+R = [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+P = [279.8514404296875, 0.0, 379.11213560680335, 0.0, 0.0, 416.473388671875, 204.86027978677157, 0.0, 0.0, 0.0, 1.0, 0.0]
+None
+# oST version 5.0 parameters
+
+
+[image]
+
+width
+752
+
+height
+480
+
+[narrow_stereo]
+
+camera matrix
+404.576983 0.000000 378.498298
+0.000000 461.109965 211.880298
+0.000000 0.000000 1.000000
+
+distortion
+-0.294487 0.068298 -0.000961 0.000385 0.000000
+
+rectification
+1.000000 0.000000 0.000000
+0.000000 1.000000 0.000000
+0.000000 0.000000 1.000000
+
+projection
+279.851440 0.000000 379.112136 0.000000
+0.000000 416.473389 204.860280 0.000000
+0.000000 0.000000 1.000000 0.000000
+

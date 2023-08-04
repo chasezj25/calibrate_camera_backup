@@ -1,0 +1,26 @@
+label: "FDCL"
+cameras:
+- camera:
+    label: cam0
+    line-delay-nanoseconds: 0
+    image_height: TAG_WIDTH_END
+    image_width: TAG_HEIGHT_END
+    type: pinhole
+    intrinsics:
+      cols: 1
+      rows: 4
+      data: [TAG_K1_END, TAG_K2_END, TAG_K3_END, TAG_K4_END]
+    distortion:
+      type: radial-tangential  
+      parameters:
+        cols: 1
+        rows: 4
+        data: [TAG_D1_END, TAG_D2_END, TAG_D3_END, TAG_D4_END]
+  T_B_C:
+    cols: 4
+    rows: 4
+    data: [1, 0, 0, 0,
+           0, 1, 0, 0,
+           0, 0, 1, 0,
+           0, 0, 0, 0]
+

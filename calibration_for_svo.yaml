@@ -1,0 +1,28 @@
+label: "FDCL"
+cameras:
+- camera:
+    label: cam0
+    line-delay-nanoseconds: 0
+    image_height: 752
+
+    image_width: 480
+
+    type: pinhole
+    intrinsics:
+      cols: 1
+      rows: 4
+      data: [404.57698327609796, 378.4982976103964, 461.1099645863125, 211.88029776182555]
+    distortion:
+      type: radial-tangential  
+      parameters:
+        cols: 1
+        rows: 4
+        data: [-0.29448681409653493, 0.06829771185126039, -0.0009606764034256757, 0.00038450957178855753]
+  T_B_C:
+    cols: 4
+    rows: 4
+    data: [1, 0, 0, 0,
+           0, 1, 0, 0,
+           0, 0, 1, 0,
+           0, 0, 0, 0]
+

@@ -7,9 +7,9 @@ import pickle
 CHECKER_WIDTH = .03658
 CHECKER = (6,4)
 
-cam_index = -1
 def main():
     cap = None
+    cam_index = -1
     for i in range(10):
         cap = cv2.VideoCapture(i)
         try:
@@ -19,11 +19,11 @@ def main():
                 break
         except:
             print("Exception ignored")
-    if i == -1:
+    if cam_index == -1:
         print("No viable cameras found")
         return
-    cap.set(cv2.CAP_PROP_FRAME_WIDTH, 640)
-    cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)
+    cap.set(cv2.CAP_PROP_FRAME_WIDTH, 1280)
+    cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 720)
     count = 0
     print("Hit the space bar to take a picture and click q to finish taking pictures")
     while True:
